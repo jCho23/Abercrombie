@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{EB802D76-EAB2-46DC-AD22-64F80CBD4273}|Unit Tests">
   <MonoDevelop.Ide.Workbench ActiveDocument="Abercrombie/Tests.cs">
     <Files>
-      <File FileName="Abercrombie/Tests.cs" Line="92" Column="21" />
+      <File FileName="Abercrombie/Tests.cs" Line="62" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,4 +10,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Abercrombie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>
